@@ -1,0 +1,21 @@
+{
+  "name": "dependency_viz",
+  "authors": [
+    "Pulkit Garg <wittycodes@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vis": "^4.21.0"
+  }
+}
